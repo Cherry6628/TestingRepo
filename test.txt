@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 There is always something to be nothing.
+=======
+This are nothing to be something.
+>>>>>>> 372fe223e7bbf29bfeee54beb56dc1d2e69c4874
