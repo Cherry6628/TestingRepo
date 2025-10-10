@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some data
+=======
+Some Random data
+>>>>>>>
